@@ -4,6 +4,7 @@ This dashboard provides insights into employee attrition trends and workforce de
 Insights Derived:
 
 Overall attrition rate is 16.1%, with 237 employees leaving.
+
 Majority of attrition occurs in the 26–35 age group (116 employees).
 Employees with salaries below 5K have the highest attrition (163).
 Laboratory Technicians and Sales Executives face the highest attrition among job roles.
